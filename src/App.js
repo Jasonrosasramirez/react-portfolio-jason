@@ -8,7 +8,7 @@ import MyFooter from './components/Footer/MyFooter';
 
 /* -- Import the pages -- */
 import About from "./pages/AboutMe/aboutMe.jsx";
-
+import Contact from "./pages/Contact/contact.jsx";
 
 /* -- Display to Page -- */
 function App() {
