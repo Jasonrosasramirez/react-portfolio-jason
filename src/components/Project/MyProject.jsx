@@ -1,9 +1,9 @@
-import "./project.css"; 
+import "./MyProject.css"; 
 
 const MyProject = () => {
     return(
         <main>
-
+            
 
         </main>
     )

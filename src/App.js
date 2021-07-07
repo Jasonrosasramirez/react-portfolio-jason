@@ -5,7 +5,7 @@ import './App.css';
 import MyNavBar from "./components/Navigation/MyNavBar.jsx";
 import MyHeader from "./components/Header/MyHeader.jsx"; 
 import MyFooter from "./components/Footer/MyFooter.jsx";
-import MyProject from "./components/Project/project.jsx";
+import MyProject from "./components/Project/MyProject.jsx";
 
 
 /* -- Import the pages -- */
@@ -26,9 +26,6 @@ function App() {
 
       <MyFooter />
     </div>
-
-
-
   );
 }
 

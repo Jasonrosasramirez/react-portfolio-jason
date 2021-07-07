@@ -6,13 +6,11 @@ import resumeFile from "./WebDevelopmentJasonRosasRamirez.pdf" // the PDF on the
 const Resume = () => {
     return (
         <div>
-
             {/* Download Resume button*/}
             <h3> <a href={resumeFile} download="WebDevelopmentJasonRosasRamirez.pdf"> Download Jason's resume Resume </a> </h3>
 
 
-
-
+            {/* The body of the page*/}
             <h1>Education</h1>
 
             <h2> University of Wisconsin - Eau Claire </h2>
